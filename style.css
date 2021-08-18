@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    background-color:cornsilk;
+
+}
+h1{
+    color: blue;
+}
+
+
+p{
+    color: blueviolet;
+}
+img{
+    width:200px;
+    size: 200px;
+}
+button{
+    color: crimson;
+}
+a{
+    color: darkslategray;
+}
